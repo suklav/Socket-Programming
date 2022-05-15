@@ -1,0 +1,19 @@
+Output:
+[Server Terminal]
+>>>
+
+Connection from: ('192.168.43.233', 61466)
+from connected user: 500 5 4.5
+The simple interest is: 112.5
+>>>
+
+
+[Client Terminal]
+>>>
+
+Enter Principle, rate of interest and year separated by space
+enter bye to disconnect
+-> 500 5 4.5
+Received from server: 112.5
+-> bye
+>>>
